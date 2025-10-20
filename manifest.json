@@ -1,5 +1,6 @@
 {
   "name": "Example Module",
   "version": "1.0",
-  "entrypoint": "entrypoint.gd"
+  "entrypoint": "entrypoint.gd",
+  "url": "https://github.com/abdulroufsidhu/gd_module_example/archive/refs/heads/master.zip"
 }
