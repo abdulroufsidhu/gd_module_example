@@ -1,0 +1,5 @@
+{
+  "name": "Example Module",
+  "version": "1.0",
+  "entrypoint": "entrypoint.gd"
+}
